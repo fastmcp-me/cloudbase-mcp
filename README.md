@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1588/tencent-cloudbase)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1588/tencent-cloudbase)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1588/tencent-cloudbase)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1588/tencent-cloudbase)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1588/tencent-cloudbase)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1588/tencent-cloudbase)
+
 <div align="center"><a name="readme-top"></a>
   
 <a href="https://tencentcloudbase.github.io/CloudBase-MCP/2025/" target="_blank"><img width="3094" height="654" alt="banner" src="https://github.com/user-attachments/assets/39adbeac-1f43-4a31-bb9b-d6f65e905295" /></a>
